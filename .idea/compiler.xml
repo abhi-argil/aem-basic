@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="player.core" />
+        <module name="player.it.launcher" />
+        <module name="player.it.tests" />
+        <module name="player.ui.apps" />
+        <module name="player.ui.content" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="player" target="1.6" />
+      <module name="player.core" target="1.6" />
+      <module name="player.it.launcher" target="1.6" />
+      <module name="player.it.tests" target="1.6" />
+      <module name="player.ui.apps" target="1.6" />
+      <module name="player.ui.content" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>player - UI apps</comment>
+<entry key="createdBy">Lenovo</entry>
+<entry key="name">player.ui.apps</entry>
+<entry key="created">2018-04-02T13:26:46.026+0530</entry>
+<entry key="groupId">com</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">player</entry>
+<entry key="description">UI apps package for player</entry>
+<entry key="artifactId">player.ui.apps</entry>
+<entry key="path">/etc/packages/player/player.ui.apps.zip</entry>
+</properties>

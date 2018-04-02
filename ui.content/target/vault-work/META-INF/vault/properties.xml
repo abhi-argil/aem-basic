@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>player - UI content</comment>
+<entry key="createdBy">Lenovo</entry>
+<entry key="name">player.ui.content</entry>
+<entry key="created">2018-04-02T13:26:46.983+0530</entry>
+<entry key="groupId">com</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">player</entry>
+<entry key="description">UI content package for player</entry>
+<entry key="artifactId">player.ui.content</entry>
+<entry key="path">/etc/packages/player/player.ui.content.zip</entry>
+</properties>

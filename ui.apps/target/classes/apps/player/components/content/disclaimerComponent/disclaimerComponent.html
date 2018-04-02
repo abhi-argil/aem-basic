@@ -1,0 +1,11 @@
+<sly data-sly-test.Disclaimer="${properties.disclaimer}"/>
+
+  <sly data-sly-test="${wcmmode.edit && !Disclaimer}">
+    <div class="cq-placeholder cq-marker-start" data-emptytext="Disclaimer Component"></div>
+  </sly>
+
+        <sly data-sly-test="${Disclaimer}">
+        <div style="text-align:justify;">
+		 ${Disclaimer}
+         </div>
+        </sly>

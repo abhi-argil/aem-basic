@@ -1,0 +1,65 @@
+<html>
+    <head>
+    <div data-sly-include="/libs/wcm/core/components/init/init.jsp"></div>
+    <style type="text/css">
+    body{
+    	overflow-x:hidden;
+    }
+    .header{
+    	overflow:hidden;
+        //border:1px solid;
+	}
+	.header-logo{
+        width:10%;
+        height:100px;
+        //border:1px solid;
+        float:left;
+        //display:inline;
+    }
+	.header-title{
+        width:89%; 
+        height:100px;
+        //border:1px solid;
+        float:left;
+       // display:inline;
+        //text-align: center;
+        //display: flex;
+    	///justify-content: center;
+    	//align-items: center;
+	}
+    .footer {
+   		position: fixed;
+   		//left: 0;
+   		bottom: 0;
+   		width: 99%;
+   		//background-color: red;
+   		//color: white;
+   		text-align: center;
+	}
+    </style>
+    </head>
+
+	<body>
+		<div class="header" >
+    		<div class="header-logo">
+        		<div data-sly-resource="${'content-header-logo' @ resourceType='wcm/foundation/components/parsys'}"></div>
+
+
+    		</div>
+<div class="header-title" >
+        		<div data-sly-resource="${'content-header-title' @ resourceType='wcm/foundation/components/parsys'}" ></div>
+
+		    </div>
+
+
+		</div>
+
+
+
+
+        <div class="footer">
+  				<div data-sly-resource="${'content-footer' @ resourceType='/apps/training-demo/component/content/titleComponent'}"></div>
+			</div>
+
+    </body>
+    </html>

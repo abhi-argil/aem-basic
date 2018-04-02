@@ -1,0 +1,23 @@
+
+<sly data-sly-test.PlayerData="${properties.playerInfo}"/>
+
+
+  <sly data-sly-test="${wcmmode.edit && !PlayerData}">
+    <div class="cq-placeholder cq-marker-start" data-emptytext="Players Component"></div>
+  </sly>
+
+
+<sly data-sly-test="${PlayerData}">
+<sly data-sly-use.PlayerModel="com.core.models.PlayerDemo"></sly>
+ <sly data-sly-list.abc="${PlayerModel.getPlayerDetails}">
+<br />
+<br />
+  Name:${abc.getName}<br />
+  Desc:${abc.getDesc}<br />
+  <img src="${abc.getFile}" />
+  image:${abc.getFile}
+</sly>
+</sly>
+
+
+
