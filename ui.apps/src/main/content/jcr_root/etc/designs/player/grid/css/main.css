@@ -1,0 +1,17 @@
+body{
+    overflow-x:hidden;
+}
+
+.header-logo{
+    width:10%;
+   height:100px;
+    float:left;
+    //border:1px solid;
+}
+
+.header-title{
+	width:90%; 
+    height:100px;
+    float:left;
+}
+

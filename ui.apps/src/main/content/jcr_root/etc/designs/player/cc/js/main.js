@@ -1,0 +1,1 @@
+alert("client lib - cc new");
