@@ -2,134 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4349ce19-8f92-45fe-80df-b74d2d355447" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/content/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/content/logoComponentClientLibs/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/content/logoComponentClientLibs/_cq_dialog/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/content/logoComponentClientLibs/_cq_editConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/content/logoComponentClientLibs/logoComponentClientLibs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/content/logoComponentClientLibs/logoComponentClientLibs.html.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/content/titleComponentClientLibs/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/content/titleComponentClientLibs/_cq_dialog/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/content/titleComponentClientLibs/_cq_editConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/content/titleComponentClientLibs/titleComponentClientLibs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/content/titleComponentClientLibs/titleComponentClientLibs.html.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/newTrainingPage/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/newTrainingPage/newTrainingPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/newTrainingPage/newTrainingPage.html.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/page/clientlib/css.txt.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/page/clientlib/style.css.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/page/partials/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/page/partials/footlibs.html.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/page/partials/head.html.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/page/partials/head.js.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/page/partials/headlibs.html.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/page/partials/main.html.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/page/partials/main.js.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/topnav/clientlib/css.txt.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/topnav/clientlib/style.css.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/templates/clientLibTemplate/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/a/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/a/css.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/a/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/a/js.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/a/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/a/js/main.js.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/aa/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/aa/css.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/aa/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/aa/js.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/aa/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/aa/js/main.js.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/b/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/b/css.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/b/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/b/js.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/b/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/b/js/main.js.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/bb/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/bb/css.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/bb/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/bb/js.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/bb/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/bb/js/main.js.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/c/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/c/css.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/c/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/c/js.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/c/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/c/js/main.js.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/cc/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/cc/css.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/cc/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/cc/js.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/cc/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/cc/js/main.js.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/dd/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/dd/css.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/dd/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/dd/js.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/dd/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/dd/js/main.js.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/ee/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/ee/css.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/ee/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/ee/js.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/ee/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/ee/js/main.js.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/grid/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/grid/css.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/grid/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/grid/js.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/grid/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/grid/js/main.js.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/logo/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/logo/css.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/logo/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/logo/js.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/logo/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/logo/js/main.js.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/test/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/test/css.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/test/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/test/js.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/test/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/test/js/main.js.dir/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/title/.content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/title/css.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/title/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/title/js.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/title/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/title/js/main.js.dir/.content.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/core/models/DateFormatting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/OSGI-INF/metatype/com.core.schedulers.SimpleScheduledTask.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/OSGI-INF/metatype/com.core.schedulers.SimpleScheduledTask.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/player.core-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/player.core-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/surefire-reports/TEST-com.core.models.TestHelloWorldModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/surefire-reports/TEST-com.core.models.TestHelloWorldModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/surefire-reports/com.core.models.TestHelloWorldModel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/surefire-reports/com.core.models.TestHelloWorldModel.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it.launcher/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/it.launcher/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it.launcher/target/player.it.launcher-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/it.launcher/target/player.it.launcher-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it.launcher/target/sling/additional-bundles/player.core-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/it.launcher/target/sling/additional-bundles/player.core-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it.launcher/target/sling/additional-bundles/player.it.tests-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/it.launcher/target/sling/additional-bundles/player.it.tests-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it.tests/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/it.tests/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/it.tests/target/player.it.tests-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/it.tests/target/player.it.tests-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/content/titleComponent/titleComponent.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/content/titleComponent/titleComponent.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/basicPage/basicPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/basicPage/basicPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/logo/.content.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/logo/.content.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/page/.content.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/page/.content.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/page/clientlib/.content.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/page/clientlib/.content.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/topnav/.content.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/topnav/.content.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/topnav/clientlib/.content.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/page/topnav/clientlib/.content.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/.content.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/.content.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/player/components/page/basicPage/basicPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui.apps/target/classes/apps/player/components/page/basicPage/basicPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/player/components/page/basicPage/basicPage.html.dir/.content.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/classes/apps/player/templates/basicPageTemplate/.content.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ui.apps/target/classes/apps/player/templates/basicPageTemplate/.content.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ui.apps/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/player.ui.apps-1.0-SNAPSHOT.zip" beforeDir="false" afterPath="$PROJECT_DIR$/ui.apps/target/player.ui.apps-1.0-SNAPSHOT.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui.apps/target/vault-work/META-INF/vault/properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ui.apps/target/vault-work/META-INF/vault/properties.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui.content/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ui.content/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui.content/target/player.ui.content-1.0-SNAPSHOT.zip" beforeDir="false" afterPath="$PROJECT_DIR$/ui.content/target/player.ui.content-1.0-SNAPSHOT.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui.content/target/vault-work/META-INF/vault/properties.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ui.content/target/vault-work/META-INF/vault/properties.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/core/models/PlayerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/core/models/PlayerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/content/titleComponentClientLibs/titleComponentClientLibs.html" beforeDir="false" afterPath="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/content/titleComponentClientLibs/titleComponentClientLibs.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/ui.apps/target/" />
     <ignored path="$PROJECT_DIR$/it.tests/target/" />
@@ -145,7 +21,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PlayerDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/core/models/PlayerDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#373#387#0" expanded="true" />
+                <element signature="e#780#781#0" expanded="true" />
+                <element signature="e#812#813#0" expanded="true" />
+                <element signature="e#946#947#0" expanded="true" />
+                <element signature="e#981#982#0" expanded="true" />
+                <element signature="e#1025#1026#0" expanded="true" />
+                <element signature="e#1065#1066#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DateFormatting.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/core/models/DateFormatting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#718#719#0" expanded="true" />
+                <element signature="e#742#743#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -171,9 +81,10 @@
         <option value="$PROJECT_DIR$/core/pom.xml" />
         <option value="$PROJECT_DIR$/core/src/main/java/com/core/models/Player.java" />
         <option value="$PROJECT_DIR$/core/src/main/java/com/core/models/InnerPlayer.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/com/core/models/PlayerDemo.java" />
         <option value="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/content/basicComponent/basicComponent.html" />
         <option value="$PROJECT_DIR$/ui.apps/src/main/content/META-INF/vault/filter.xml" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/core/models/PlayerDemo.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/core/models/DateFormatting.java" />
       </list>
     </option>
   </component>
@@ -211,6 +122,51 @@
             <path>
               <item name="player" type="b2602c69:ProjectViewProjectNode" />
               <item name="player" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="player" type="b2602c69:ProjectViewProjectNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="player" type="b2602c69:ProjectViewProjectNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="player" type="b2602c69:ProjectViewProjectNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="player" type="b2602c69:ProjectViewProjectNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="player" type="b2602c69:ProjectViewProjectNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="player" type="b2602c69:ProjectViewProjectNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="player" type="b2602c69:ProjectViewProjectNode" />
@@ -265,6 +221,112 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="jcr_root" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="player" type="b2602c69:ProjectViewProjectNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.apps" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="jcr_root" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="player" type="b2602c69:ProjectViewProjectNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.apps" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="jcr_root" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="player" type="b2602c69:ProjectViewProjectNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.apps" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="jcr_root" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="titleComponentClientLibs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="player" type="b2602c69:ProjectViewProjectNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.apps" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="jcr_root" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="player" type="b2602c69:ProjectViewProjectNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="player" type="b2602c69:ProjectViewProjectNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.content" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="player" type="b2602c69:ProjectViewProjectNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.content" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="player" type="b2602c69:ProjectViewProjectNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.content" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="player" type="b2602c69:ProjectViewProjectNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.content" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="jcr_root" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="player" type="b2602c69:ProjectViewProjectNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.content" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="jcr_root" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="player" type="b2602c69:ProjectViewProjectNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+              <item name="ui.content" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="jcr_root" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="player" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -368,12 +430,12 @@
       <workItem from="1522652333885" duration="2613000" />
       <workItem from="1522655122347" duration="457000" />
       <workItem from="1522655617702" duration="2550000" />
-      <workItem from="1522734010709" duration="3732000" />
+      <workItem from="1522734010709" duration="6588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29828000" />
+    <option name="totallyTimeSpent" value="32684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -388,11 +450,11 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.38961038" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.38961038" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40242058" />
-      <window_info anchor="bottom" id="IntelliVault" order="8" visible="true" weight="0.32305196" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.40242058" />
+      <window_info anchor="bottom" id="IntelliVault" order="8" weight="0.32305196" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -692,25 +754,46 @@
     <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/templates/clientLibTemplate/.content.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/logo/.content.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/player/components/content/titleComponentClientLibs/titleComponentClientLibs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/core/models/DateFormatting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/com/core/models/PlayerDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        <state relative-caret-position="238">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#373#387#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
             <element signature="e#946#947#0" expanded="true" />
             <element signature="e#981#982#0" expanded="true" />
             <element signature="e#1025#1026#0" expanded="true" />
             <element signature="e#1065#1066#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/etc/designs/player/logo/.content.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

@@ -32,6 +32,11 @@ public class PlayerDemo {
     }
 
 
+    public String getMsg(){
+        return "abhinav";
+    }
+
+
 
     public class PlayerDetail{
         String name;
