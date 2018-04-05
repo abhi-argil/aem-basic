@@ -1,0 +1,17 @@
+<sly data-sly-test.HeaderDate="${properties.headerDate}"/>
+
+
+  <sly data-sly-test="${wcmmode.edit && !HeaderDate}">
+    <div class="cq-placeholder cq-marker-start" data-emptytext="Date Header Component"></div>
+  </sly>
+
+   <sly data-sly-test="${HeaderDate}" >
+
+   		<sly data-sly-use.Date="com.core.models.CustomDateModel"></sly>
+
+
+    	<sly data-sly-list.abc="${Date.getDate}">
+   			<h2 class="inner-header-title">${abc}</h2>
+
+		</sly>
+    </sly> 

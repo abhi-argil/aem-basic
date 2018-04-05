@@ -1,6 +1,12 @@
 <sly data-sly-test.HeaderTitle="${properties.headerTitle}"/>
-<sly data-sly-use.Play="com.core.models.DateFormatting"></sly>
-  <sly data-sly-test="${wcmmode.edit && !HeaderTitle}">
+
+
+
+<sly data-sly-use.Play="${'com.core.models.DateFormatting' @ tim=properties.jcr:created}">
+<sly data-sly-use.date="com.core.models.SelfDate"></sly>
+<sly data-sly-use.NewDate="com.core.models.PojoDate"></sly>
+
+  <!--<sly data-sly-test="${wcmmode.edit && !HeaderTitle}">
     <div class="cq-placeholder cq-marker-start" data-emptytext="Title Header Component"></div>
   </sly>
 
@@ -8,6 +14,13 @@
 
    		<h2 class="inner-header-title">${HeaderTitle}</h2>
 
-${Play.msg}
-    </sly>
+
+    </sly> -->
+
+<h2 class="inner-header-title">Date:${Play.date}, Time:${Play.time}</h2>
+
+
+<h2 class="inner-header-title">New Date:${date.getDate}</h2>
+
+<h2 class="inner-header-title">WCM USE POJO:${NewDate.getDate}</h2>
 
