@@ -8,6 +8,5 @@
             player/page/page
         </property>
         <property name="service.vendor" value="Adobe"/>
-        <property name="service.pid" value="com.core.servlets.SimpleServlet"/>
     </scr:component>
 </components>

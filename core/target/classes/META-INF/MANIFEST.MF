@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1522921836234
+Bnd-LastModified: 1523955372072
 Build-Jdk: 1.8.0_161
 Built-By: Lenovo
 Bundle-Description: Core bundle for player
@@ -8,13 +8,14 @@ Bundle-Name: player - Core
 Bundle-SymbolicName: com.player.core
 Bundle-Version: 1.0.0.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
-Export-Package: com.core.filters;uses:="javax.servlet";version="1.0.0",c
- om.core.listeners;uses:="org.osgi.service.event";version="1.0.0",com.co
- re.models;uses:="com.adobe.cq.sightly,javax.annotation,javax.inject,jav
- ax.jcr,org.apache.sling.api,org.apache.sling.api.resource,org.apache.sl
- ing.models.annotations";version="1.0.0",com.core;version="1.0",com.core
- .schedulers;version="1.0.0",com.core.servlets;uses:="javax.servlet,org.
- apache.sling.api,org.apache.sling.api.servlets";version="1.0.0"
+Export-Package: com.core.filters;version="1.0.0";uses:="javax.servlet",c
+ om.core.listeners;version="1.0.0";uses:="org.osgi.service.event",com.co
+ re.models;version="1.0.0";uses:="com.adobe.cq.sightly,javax.annotation,
+ javax.inject,javax.jcr,org.apache.sling.api,org.apache.sling.api.resour
+ ce,org.apache.sling.models.annotations",com.core;version="1.0",com.core
+ .schedulers;version="1.0.0",com.core.services;version="1.0.0";uses:="or
+ g.osgi.service.component",com.core.servlets;version="1.0.0";uses:="java
+ x.servlet,org.apache.sling.api,org.apache.sling.api.servlets"
 Import-Package: javax.inject;version="0.0.0",com.adobe.cq.sightly;versio
  n="[2.2,3)",com.google.gson;version="[2.8,3)",javax.annotation,javax.jc
  r;version="[2.0,3)",javax.servlet,org.apache.sling.api;version="[2.3,3)
@@ -23,20 +24,22 @@ Import-Package: javax.inject;version="0.0.0",com.adobe.cq.sightly;versio
  )",org.apache.sling.commons.osgi;version="[2.2,3)",org.apache.sling.mod
  els.annotations;version="[1.0,2)",org.apache.sling.models.annotations.i
  njectorspecific;version="[1.1,2)",org.apache.sling.settings;version="[1
- .3,2)",org.osgi.service.event;version="[1.2,2)",org.slf4j;version="[1.5
- ,2)"
+ .3,2)",org.osgi.service.component;version="[1.1,2)",org.osgi.service.ev
+ ent;version="[1.2,2)",org.slf4j;version="[1.5,2)"
 Provide-Capability: osgi.service;effective:=active;objectClass="javax.se
  rvlet.Servlet";service.vendor=Adobe,osgi.service;effective:=active;obje
  ctClass="java.lang.Runnable";scheduler.expression="*/30 * * * * ?";sche
  duler.concurrent=false;service.vendor=Adobe,osgi.service;effective:=act
- ive;objectClass="javax.servlet.Filter";service.ranking=-700;sling.filte
- r.scope=REQUEST;service.vendor=Adobe,osgi.service;effective:=active;obj
- ectClass="org.osgi.service.event.EventHandler";event.topics="org/apache
- /sling/api/resource/Resource/*";service.vendor=Adobe
+ ive;objectClass="com.core.services.TrainingService";service.vendor=Adob
+ e,osgi.service;effective:=active;objectClass="javax.servlet.Filter";ser
+ vice.ranking=-700;sling.filter.scope=REQUEST;service.vendor=Adobe,osgi.
+ service;effective:=active;objectClass="org.osgi.service.event.EventHand
+ ler";event.topics="org/apache/sling/api/resource/Resource/*";service.ve
+ ndor=Adobe
 Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.6))"
 Service-Component: OSGI-INF/com.core.listeners.SimpleResourceListener.xm
  l,OSGI-INF/com.core.schedulers.SimpleScheduledTask.xml,OSGI-INF/com.cor
- e.servlets.SimpleServlet.xml,OSGI-INF/com.core.filters.LoggingFilter.xm
- l
+ e.services.TrainingService.xml,OSGI-INF/com.core.servlets.SimpleServlet
+ .xml,OSGI-INF/com.core.filters.LoggingFilter.xml
 Sling-Model-Packages: com.core
 Tool: Bnd-2.3.0.201405100607

@@ -1,11 +1,15 @@
 com\core\package-info.class
 com\core\models\PlayerDemo$PlayerDetail.class
+com\core\Test.class
+com\core\services\TrainingServiceInterface.class
 com\core\servlets\SimpleServlet.class
 com\core\models\HelloWorldModel.class
 com\core\models\CustomDateWCM.class
+com\core\services\TrainingService.class
 com\core\models\DateFormatting.class
 com\core\models\InnerPlayer.class
 com\core\models\SelfDate.class
+com\core\models\ServiceDataAccessModel.class
 com\core\schedulers\SimpleScheduledTask.class
 com\core\listeners\SimpleResourceListener.class
 com\core\models\PojoDate.class

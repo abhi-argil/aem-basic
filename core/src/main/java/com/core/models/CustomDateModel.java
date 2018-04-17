@@ -8,6 +8,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 
+import javax.annotation.PostConstruct;
 import javax.inject.Inject;
 import javax.inject.Named;
 
@@ -30,6 +31,7 @@ public class CustomDateModel {
 	@Named("jcr:created")
 	private  java.util.Calendar date;
 
+	
 	public String getDate1() {
 		return date.getTime().toString();
 	}
