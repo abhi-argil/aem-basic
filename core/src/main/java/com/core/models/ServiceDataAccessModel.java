@@ -5,6 +5,7 @@ import org.apache.sling.api.resource.Resource;
 import org.apache.sling.models.annotations.Model;
 import org.apache.sling.models.annotations.injectorspecific.OSGiService;
 
+import com.core.services.TestService;
 import com.core.services.TrainingService;
 
 @Model(adaptables = { Resource.class, SlingHttpServletRequest.class })
@@ -25,5 +26,13 @@ public class ServiceDataAccessModel {
 	public String getNullField() {
 		String te = trainingService.getAuthorNUllField();
 		return te;
+	}
+	
+	@OSGiService
+	TestService testService;
+	
+	public String myfun()
+	{
+		return testService.fun();
 	}
 }

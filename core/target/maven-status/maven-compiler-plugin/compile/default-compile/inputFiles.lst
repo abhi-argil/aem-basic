@@ -6,7 +6,6 @@ D:\mavenproj\player\core\src\main\java\com\core\models\CustomDateWCM.java
 D:\mavenproj\player\core\src\main\java\com\core\services\TrainingService.java
 D:\mavenproj\player\core\src\main\java\com\core\models\ServiceDataAccessModel.java
 D:\mavenproj\player\core\src\main\java\com\core\filters\LoggingFilter.java
-D:\mavenproj\player\core\src\main\java\com\core\services\TrainingServiceInterface.java
 D:\mavenproj\player\core\src\main\java\com\core\models\CustomDateModel.java
 D:\mavenproj\player\core\src\main\java\com\core\servlets\SimpleServlet.java
 D:\mavenproj\player\core\src\main\java\com\core\schedulers\SimpleScheduledTask.java
@@ -15,3 +14,4 @@ D:\mavenproj\player\core\src\main\java\com\core\models\DateFormatting.java
 D:\mavenproj\player\core\src\main\java\com\core\models\PlayerDemo.java
 D:\mavenproj\player\core\src\main\java\com\core\models\InnerPlayer.java
 D:\mavenproj\player\core\src\main\java\com\core\models\SelfDate.java
+D:\mavenproj\player\core\src\main\java\com\core\services\TestService.java
